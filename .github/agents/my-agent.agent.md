@@ -6,6 +6,7 @@
 
 name: Mi Copilot
 model: gpt-4o
+description: Mi asistente personalizado para programar
 ---
 
 # My Agent
